@@ -1,9 +1,14 @@
 {
     "name": "lenovo/oop-praktikum",
-    "description": "praktikum 7 pemprograman web berbasis lanjutan",
+    "description": "Praktikum pemprograman berbasis web lanjutan",
     "type": "project",
-    "url": "https://github.com/budss1/praktikum"
     "require": {
-        "php": "8.2.12"
-    }
+        "php": "8.2"
+    },
+    "authors": [
+        {
+            "name": "derman",
+            "email": "budipross1232@gmail.com"
+        }
+    ]
 }
