@@ -6,7 +6,7 @@ $mhsw = new Mhsw();
 $rows = $mhsw->tampil();
 
 ?>
-
+    <h1> Tabel Mahasiswa </h2>
 	<table>
 		<tr>
 			<td>NO</td>
